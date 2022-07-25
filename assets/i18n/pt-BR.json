@@ -1,0 +1,35 @@
+{
+  "login": {
+    "mail": "E-mail",
+    "pwd": "Senha",
+    "confirmPwd": "Confirme sua senha",
+    "signup": "Registrar-se",
+    "signin": "Acessar",
+    "finishBtn": "Finalizar",
+    "forgot": "Esqueceu sua senha?"
+  },
+  "products": {
+    "title": "Fruit Basket",
+    "searchBar": "Filtre produtos pelo nome",
+    "productCards": "Produtos",
+    "categoryCards": "Categorias",
+    "resetCard": "Redefinir"
+  },
+  "productDetail": {
+    "description": "Descrição",
+    "purchaseInfo": "Informações de compra",
+    "available": "Disponível:",
+    "size": "Tamanho:",
+    "price": "Preço:",
+    "quantity": "Quantidade",
+    "addToCart": "Adicionar à cesta",
+    "exists": "Produto já está na cesta"
+  },
+  "cart": {
+    "title": "Cesta de compras",
+    "price": "Valor:",
+    "quantity": "Quantidade:",
+    "total": "Total:",
+    "totalBasket": "Total a pagar:"
+  }
+}

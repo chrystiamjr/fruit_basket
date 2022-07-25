@@ -1,0 +1,20 @@
+{
+  "emulators": {
+    "auth": {
+      "host": "192.168.230.174",
+      "port": 9099
+    },
+    "ui": {
+      "enabled": true,
+      "port": 3333
+    },
+    "firestore": {
+      "host": "192.168.230.174",
+      "port": 8080
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
